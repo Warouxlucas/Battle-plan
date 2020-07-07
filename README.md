@@ -30,9 +30,9 @@ project for sure Website « Gamotion » ~~(/?php – wordpress ? Divi ?/)~~ Figm
       
 Week 3 20/07-27/07
 
-    • Gamotion lauchable ultimate deadline (even if i might have some things to fix).
-    • Set what front tech i m most likely to use. 
-    • Dive into it. 
+    -Gamotion lauchable ultimate deadline (even if i might have some things to fix).
+    -Set what front tech i m most likely to use. 
+    -Dive into it. 
       
 Week 4 27/07-03/08,
  
