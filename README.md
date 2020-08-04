@@ -28,24 +28,26 @@ project for sure Website « Gamotion » ~~(/?php – wordpress ? Divi ?/)~~ Figm
         - getting started on second project  (artist website or porfolio) ;
 	} else{ week+1 ;}
       
-Week 3 20/07-27/07
+## Week 3 20/07-27/07
 
     - Gamotion lauchable ultimate deadline (even if i might have some things to fix).
     - Set what front tech i m most likely to use. 
     - Dive into it. 
       
-Week 4 27/07-03/08,
+## Week 4 27/07-03/08,
 
 	-holidays
 	-upload of gamotion( there is still stuff to do) 
  
-Week 5 10/08-17/08,
+## Week 5 03/08-10/08,
+
  	-finishing gamotion v-1 
 	-scouting idea for personal porfolio online 
 	-developping it 
 	-scouting companies in liege for internship 
 	
-Week 6 17/08-24/08,
+## Week 6 10/08-17/08,
+
  	-portfolio 
 	-css animations
 	
