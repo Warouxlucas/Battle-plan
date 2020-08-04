@@ -35,11 +35,20 @@ Week 3 20/07-27/07
     - Dive into it. 
       
 Week 4 27/07-03/08,
+
+	-holidays
+	-upload of gamotion( there is still stuff to do) 
  
 Week 5 10/08-17/08,
- 
+ 	-finishing gamotion v-1 
+	-scouting idea for personal porfolio online 
+	-developping it 
+	-scouting companies in liege for internship 
+	
 Week 6 17/08-24/08,
- 
+ 	-portfolio 
+	-css animations
+	
 Week 7 24/08-31/08,
  
 Week 8 31/08-07/09,
