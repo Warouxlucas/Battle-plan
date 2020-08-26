@@ -2,10 +2,7 @@
 
 The Summer pastures battle plan !
 
-Ideas use (react.js, vue.js or angular because it’s everywhere) / typescript / sass  on project (artist website or porfolio) Gatsby ? 
-
-project for sure Website « Gamotion » ~~(/?php – wordpress ? Divi ?/)~~ Figma, strapify & Gatsby)
-
+Ideas use (react.js, vue.js or angular because it’s everywhere) / typescript / sass  on project (artist website or porfolio) Gatsby ?
 
 
 ## Week 1 06/07-13/07,
@@ -21,23 +18,22 @@ project for sure Website « Gamotion » ~~(/?php – wordpress ? Divi ?/)~~ Figm
       
 
 ## Week 2 13/07-20/07
-    - Working on Gamotion (hope i finish that week , it depends a lot on if i get started  quickly with gatsby & strapify ) 
-      if (project finished that week) {
-        - look around .net ;
-        - look around angular ;
-        - getting started on second project  (artist website or porfolio) ;
-	} else{ week+1 ;}
+    - Working on Gamotion 
+      if project finished that week
+        - look around .net 
+        - look around angular 
+        - getting started on second project  (artist website or porfolio) 
+	 else{ week+1 ;}
       
 ## Week 3 20/07-27/07
 
-    - Gamotion lauchable ultimate deadline (even if i might have some things to fix).
-    - Set what front tech i m most likely to use. 
+    - Gamotion lauchable ultimate deadline
     - Dive into it. 
       
 ## Week 4 27/07-03/08,
 
 	-holidays
-	-upload of gamotion( there is still stuff to do) 
+	-upload of gamotion
  
 ## Week 5 03/08-10/08,
 
